@@ -13,40 +13,10 @@ In the current development environment, there are several tools available for de
 | Automation Capability | Command-line support for automating tasks. | Easily integrates into CI/CD pipelines. | Convenient for CI/CD, quick cluster deployments. |
 | Additional Features | Built-in addons for monitoring (Dashboard, Prometheus), Ingress, CNI. | Easily creates multi-node clusters, supports Docker-in-Docker. | Supports multi-node clusters, lightweight and fast. |
 
-
-
-Minikube
-Advantages:
-    Full support for Kubernetes features.
-    Wide range of built-in addons.
-    Support for various virtualization drivers.
-Disadvantages:
-    Slow deployment due to the use of virtual machines.
-    Higher resource consumption.
-    More complex integration into CI/CD.
-Kind
-Advantages:
-    Easy integration into CI/CD.
-    Quick deployment.
-    Supports multi-node clusters.
-Disadvantages:
-    Limited support for additional features.
-    Dependency on Docker.
-    Can be more complex for beginners.
-K3d
-Advantages:
-    Extremely fast deployment and lightweight.
-    Suitable for resource-constrained environments.
-    Supports multi-node clusters.
-Disadvantages:
-    Limited support for some Kubernetes features.
-    Dependency on Docker.
-    May require additional configuration for full functionality.
-
 # Advantages and Disadvantages
 || Minikube | Kind | K3d |
 | --- | --- | --- | --- |
-| Advantages | - Full support for Kubernetes features. <br> - Wide range of built-in addons. <br> Support for various virtualization drivers. | Easy integration into CI/CD. <br> Quick deployment. <br> Supports multi-node clusters. | Extremely fast deployment and lightweight. <br> Suitable for resource-constrained environments. <br> Supports multi-node clusters. |
-
+| Advantages | Full support for Kubernetes features. <br> Wide range of built-in addons. <br> Support for various virtualization drivers. | Easy integration into CI/CD. <br> Quick deployment. <br> Supports multi-node clusters. | Extremely fast deployment and lightweight. <br> Suitable for resource-constrained environments. <br> Supports multi-node clusters. |
+| Disadvantages | Slow deployment due to the use of virtual machines. <br> Higher resource consumption. <br> More complex integration into CI/CD. | Limited support for additional features. <br> Dependency on Docker. <br> Can be more complex for beginners. | Extremely fast deployment and lightweight. <br> Suitable for resource-constrained environments. <br> Supports multi-node clusters. | 
 
 ### t01

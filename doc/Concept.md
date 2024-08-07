@@ -35,7 +35,8 @@ Disadvantages of Podman:
 
 # Demonstration
 ### Demonstration with K3d
-demo
+
+![Image](k3d.gif)
 
 # Conclusion 
 1. Minikube is suitable for comprehensive local testing with full Kubernetes support but has high resource requirements and can be slow.

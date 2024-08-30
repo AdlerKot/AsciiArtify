@@ -1,4 +1,4 @@
-https://github.com/AdlerKot/AsciiArtify/blob/main/doc/demo.mov
+https://github.com/AdlerKot/AsciiArtify/blob/main/doc/demo720.mov
 
 123
 

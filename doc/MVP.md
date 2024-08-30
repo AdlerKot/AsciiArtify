@@ -1,7 +1,2 @@
-https://github.com/AdlerKot/AsciiArtify/blob/main/doc/demo720.mov
-
-123
-
-[![Watch the video]](https://github.com/AdlerKot/AsciiArtify/raw/main/doc/demo720.mov)
-
-321
+### Demo App with ArgoCD
+[Demo Video](https://drive.google.com/file/d/1TbkcZZepFMuuxa4aqMI3jzMsAZQbPywg/view?usp=drive_link)
